@@ -1,0 +1,8 @@
+name: indrajalame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The cosmic-net in which each thing reflects and contains all the others, not just connection but mutual mirroring.
+dependsOn: [youspeak, me, daome]
